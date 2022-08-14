@@ -1,1 +1,1 @@
-revert 전 -> 후
+revert 전
