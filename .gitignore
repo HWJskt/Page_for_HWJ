@@ -1,5 +1,6 @@
 #system file
 .DS_Store
+*.reponame
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
